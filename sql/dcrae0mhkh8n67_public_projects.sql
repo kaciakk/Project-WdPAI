@@ -1,0 +1,9 @@
+INSERT INTO public.projects (id, title, description, "like", created_at, id_assigned_by, image) VALUES (28, 'Wiedźmin', 'Chrzest ognia', 20, '2022-06-30', 1, 'chrzest-ognia-wiedzmin-tom-5-b-iext107110629.jpg');
+INSERT INTO public.projects (id, title, description, "like", created_at, id_assigned_by, image) VALUES (27, 'Harry Potter', 'Zakon Feniksa', 72, '2022-06-30', 1, 'harry-potter-i-zakon-feniksa-tom-5-b-iext105892340.jpg');
+INSERT INTO public.projects (id, title, description, "like", created_at, id_assigned_by, image) VALUES (15, 'Wiedźmin', 'Szpony i kły', 42, '2022-06-30', 1, 'Szpony i kły.png');
+INSERT INTO public.projects (id, title, description, "like", created_at, id_assigned_by, image) VALUES (19, 'Harry Potter', 'Kamień filozoficzny', 19, '2022-06-30', 1, 'harry poter i kamień.png');
+INSERT INTO public.projects (id, title, description, "like", created_at, id_assigned_by, image) VALUES (18, 'Władca Pierścieni', 'Dwie wieże', 152, '2022-06-30', 1, 'wladca-pierscieni-dwie-wieze-tom-2-wersja-ilustrowana-b-iext106539001.jpg');
+INSERT INTO public.projects (id, title, description, "like", created_at, id_assigned_by, image) VALUES (13, 'Wiedźmin', 'Wieża jaskółki', 22, '2022-06-30', 1, 'wieza-jaskolki-wiedzmin-tom-6-b-iext105894109.jpg');
+INSERT INTO public.projects (id, title, description, "like", created_at, id_assigned_by, image) VALUES (17, 'Władca Pierścieni', 'Drużyna pierścienia', 14, '2022-06-30', 1, 'wladca-pierscieni-tom-1-druzyna-pierscienia-w-iext66618238.jpg');
+INSERT INTO public.projects (id, title, description, "like", created_at, id_assigned_by, image) VALUES (14, 'Wiedźmin', 'Pani Jeziora', 90, '2022-06-30', 1, 'Pani Jeziora.png');
+INSERT INTO public.projects (id, title, description, "like", created_at, id_assigned_by, image) VALUES (30, 'Harry Potter', 'Czara ognia', 0, '2022-06-30', 1, 'harry-potter-i-czara-ognia-tom-4-b-iext105892285.jpg');
