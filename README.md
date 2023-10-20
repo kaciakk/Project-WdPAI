@@ -1,4 +1,3 @@
-<h1><p><img alt="Image" title="icon" img src="public/img/logo.svg" /></p></h1>
 <h2>Nowoczesna księgarnia internetowa!</h2>
 <p>BIGBOOK to największy wybór, najszybsza dostawa i najlepsza obsługa.
     Oferujemy przede wszystkim darmowe wypożyczenie ksiązki door-to-door oraz możliwość 
