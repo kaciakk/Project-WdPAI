@@ -1,3 +1,6 @@
+30.06.22r.
+
+
 <h2>Nowoczesna księgarnia internetowa!</h2>
 <p>BIGBOOK to największy wybór, najszybsza dostawa i najlepsza obsługa.
     Oferujemy przede wszystkim darmowe wypożyczenie ksiązki door-to-door oraz możliwość 
